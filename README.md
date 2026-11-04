@@ -1,3 +1,5 @@
+Excited to share my HR Analytics Dashboard, created using Power BI! 
+
 The goal of this project was to analyze employee data and transform it into meaningful insights that can support better HR decision-making.
 
 📌 Key Insights Covered:
